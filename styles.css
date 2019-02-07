@@ -1,0 +1,39 @@
+.tropical {
+  color: #f7325e;
+  font-family: fantasy;
+}
+p.tropical {
+  color: #7dc410;
+  font-size: 30px;
+}
+.popular {
+  color: grey;
+  font-family: fantasy;
+}
+p.popular {
+  color: purple;
+  font-size: 30px
+}
+body {
+  background-color: maroon;
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+text {
+  font-style: italic;
+  color: white;
+  font-weight: bold;
+  font-size: 30px
+  text-align: center;
+}
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-size: 30px
+  font-style: italic;
+}
